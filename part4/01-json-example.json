@@ -1,0 +1,6 @@
+{
+  "name": "Shake",
+  "age": 20,
+  "skills": ["TypeScript", "Hono"],
+  "isValid": true
+}

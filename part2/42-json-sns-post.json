@@ -1,0 +1,10 @@
+{
+  "postId": "a1b2c3",
+  "content": "JavaScript勉強中！",
+  "author": {
+    "name": "Shake",
+    "isVerified": true
+  },
+  "tags": ["programming", "js"],
+  "likes": 120
+}

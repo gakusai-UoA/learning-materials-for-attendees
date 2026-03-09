@@ -1,0 +1,9 @@
+# From Part 7 - Section 4: 今回やること
+[ブラウザ (React)]  ──GET /messages──→  [Part 5 で作った Hono API]
+       ↑                                        │
+       └──── JSON でメッセージ一覧 ──────────────┘
+
+[ブラウザ (React)]  ──POST /messages──→  [Part 5 で作った Hono API]
+  { name: "太郎", content: "Hello!" }     D1 に保存
+       ↑                                        │
+       └──── 更新後の一覧を返す ────────────────┘

@@ -1,0 +1,12 @@
+{
+  "event": "学園祭",
+  "location": "A棟ホール",
+  "schedule": [
+    { "time": "10:00", "title": "開会式" },
+    { "time": "11:00", "title": "LIVE" }
+  ],
+  "contact": {
+    "email": "info@example.com",
+    "tel": "03-xxxx-xxxx"
+  }
+}

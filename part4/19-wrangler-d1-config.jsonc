@@ -1,0 +1,11 @@
+// Section 7 - ステップ 2: wrangler.jsonc の d1_databases 設定
+{
+  // ... 他の設定
+  "d1_databases": [
+    {
+      "binding": "DB", // コード内で使う名前
+      "database_name": "my-db",
+      "database_id": "xxxx-xxxx-xxxx", // あなたの ID
+    },
+  ],
+}

@@ -5,7 +5,7 @@
     {
       "binding": "DB", // コード内で使う名前
       "database_name": "my-db",
-      "database_id": "xxxx-xxxx-xxxx", // あなたの ID
+      "database_id": "xxxx-xxxx-xxxx", // データベースの ID
     },
   ],
 }

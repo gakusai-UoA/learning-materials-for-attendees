@@ -8,7 +8,7 @@ console.log("HELLO".toLowerCase()); // "hello"
 // 前後の空白を除去
 console.log(text.trim()); // "Hello, JavaScript!"
 
-// 一部を切り出し（開始位置, 終了位置）
+// 一部を切り出し（開始位置, 文字数）
 console.log("JavaScript".slice(0, 4)); // "Java"
 
 // 文字を置き換え
